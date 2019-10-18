@@ -7,4 +7,4 @@
 Simple conclusion: 
 - RNN-> accuracy 0.9585  training time -> 6 minutes
 - CNN -> accuarcy 0.9966 training time -> 3.45 minutes
-- The performance of CNN is obviously better than that of CNN, and its training time is shorter than RNN's mainly because the RNN is trained serially each stage but CNN directly read the images as input data.
+- The performance of CNN is obviously better than that of CNN, and its training time is shorter than RNN's mainly because the RNN is trained serially each stage but CNN directly reads the images as input data.
